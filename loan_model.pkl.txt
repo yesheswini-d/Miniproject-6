@@ -1,0 +1,8 @@
+📁 Loan_Approval_Prediction
+
+    📄 train_model.py
+    📄 app.py
+    📄 requirements.txt
+    📄 README.md
+    📄 .gitignore
+    📦 loan_model.pkl
